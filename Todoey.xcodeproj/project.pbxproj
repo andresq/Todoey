@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3825FE4720C5DA2700A86119 /* CatergoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3825FE4620C5DA2700A86119 /* CatergoryViewController.swift */; };
 		383A0BD320C4498E00EBE628 /* DataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 383A0BD120C4498E00EBE628 /* DataModel.xcdatamodeld */; };
 		38F22AC720BB8B9B007F80B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38F22AC620BB8B9B007F80B6 /* AppDelegate.swift */; };
 		38F22AC920BB8B9B007F80B6 /* TodoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38F22AC820BB8B9B007F80B6 /* TodoListViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3825FE4620C5DA2700A86119 /* CatergoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatergoryViewController.swift; sourceTree = "<group>"; };
 		383A0BD220C4498E00EBE628 /* DataModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DataModel.xcdatamodel; sourceTree = "<group>"; };
 		38F22AC320BB8B9B007F80B6 /* Todoey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Todoey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		38F22AC620BB8B9B007F80B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -48,6 +50,7 @@
 		386C68B920BCD7590044E6CC /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				3825FE4620C5DA2700A86119 /* CatergoryViewController.swift */,
 				38F22AC820BB8B9B007F80B6 /* TodoListViewController.swift */,
 			);
 			path = Controllers;
@@ -173,6 +176,7 @@
 				38F22AC920BB8B9B007F80B6 /* TodoListViewController.swift in Sources */,
 				383A0BD320C4498E00EBE628 /* DataModel.xcdatamodeld in Sources */,
 				38F22AC720BB8B9B007F80B6 /* AppDelegate.swift in Sources */,
+				3825FE4720C5DA2700A86119 /* CatergoryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
