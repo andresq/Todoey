@@ -1,6 +1,6 @@
 # iOS App - a simple to do list.
 
-#Built to learn Swift and other technologies
+# Built to learn Swift and other technologies
 
 
 Technologies used:
